@@ -1,2 +1,2 @@
 # utilidadesDian
-Contiene algunas herramientas y algoritmos usados por la DIAN
+Contiene algunas herramientas usados por la DIAN
