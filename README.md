@@ -1,2 +1,2 @@
 # utilidadesDian
-Contiene algunas herramientas usadas por la DIAN
+Herramientas para manejo de reportes de impuestos en Python
